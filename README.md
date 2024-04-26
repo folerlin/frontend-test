@@ -3,6 +3,7 @@
 This is a test to see your understanding of frontend knowledge in React JS with Tailwind css
 
 ## Things to do
+Fork or create your repository and share the access privately.
 Write a clean code with proper comments and structured folder.
 
 List of items
